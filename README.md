@@ -1,3 +1,16 @@
+# Hi there!
+
+I’m a middle (probably) Python developer; I also write a bit of C++ and enjoy creating programming languages ​​(which is why there are so many of them in my profile).
+
+## What projects am I currently working on?
+
+I am currently developing several of my programming languages, but I want to focus on the development of one of them. Since I'm still learning, I often find it difficult to combine learning and programming, but so far, as you can see, I'm holding on. But okay, the whole list of them:
+
+- [OSHD](https://github.com/MrHacer201145/oshd-lang)
+- [Stack Lang Engine](https://github.com/MrHacer201145/SLE)
+
+But I can also sometimes update even my abandoned projects.
+
 ## What I can do
 
 I can write in Python, a bit in C/C++, 
